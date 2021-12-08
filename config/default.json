@@ -1,0 +1,11 @@
+{
+  "api": {
+    "port": 3100
+  },
+  "postgre": {
+    "data-base": "petshop",
+    "user": "postgres",
+    "password": "xxxxxxxx",
+    "host": "127.0.0.1"
+  }
+}
